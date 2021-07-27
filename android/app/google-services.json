@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567536836422",
+    "project_id": "flash-chat-89123",
+    "storage_bucket": "flash-chat-89123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567536836422:android:b9ccf13c92b07776658f47",
+        "android_client_info": {
+          "package_name": "co.DeepakMustare.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567536836422-bfb6plldo62goepig6a9dsnvq6d4qb0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrHz_qoFPJlL9FSilYbdkwdmqYYTyrKD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567536836422-bfb6plldo62goepig6a9dsnvq6d4qb0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
